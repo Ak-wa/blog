@@ -3,9 +3,9 @@ title: Sample Page
 published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Text can be **bold**, YEET, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](another-page).
+[Link to another yee](another-page).
 
 There should be whitespace between paragraphs.
 

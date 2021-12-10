@@ -1,11 +1,13 @@
-# Jailbreak an Ipad 2 and make it usable again in 2021
+---
+layout: default
+---
 
 > Version 9.3.5 Model MC979FD/A
 
 <details open>
   <summary> How to Jailbreak </summary>
 
-## STEP 1
+## STEP 1  
 - Download 3uTools on your pc  
 [3u Mainpage](https://3u.com)  
 [Direct download for tool](https://url.3u.com/zmAJjyaa)

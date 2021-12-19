@@ -2,7 +2,7 @@
 layout: default
 ---
 # Jailbreak an Ipad2 & make it usable again
-> Version 9.3.5 Model MC979FD/A
+> IOS Version 9.3.5, Model MC979FD/A - this guide was last tested December 2021
 
 
 ## STEP 1  

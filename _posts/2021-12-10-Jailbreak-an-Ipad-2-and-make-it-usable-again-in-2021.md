@@ -46,11 +46,10 @@ layout: default
 - In case it says "Storage almost full", ignore  
 - Let it install, reboot  
 __DONE__
-</details>
 
-<details open>  
-    <summary> How to Install Youtube </summary>  
 
+
+How to Install Youtube  
 ## STEP 1  
 - Download youtube++ app from [here](https://iosninja.io/ipa-library/download-youtube-plus-ipa-ios)
   

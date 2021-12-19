@@ -4,8 +4,6 @@ layout: default
 
 > Version 9.3.5 Model MC979FD/A
 
-<details open>
-  <summary> How to Jailbreak </summary>
 
 ## STEP 1  
 - Download 3uTools on your pc  
@@ -58,4 +56,4 @@ __DONE__
   
 ## STEP 2
 
-</details>
+
